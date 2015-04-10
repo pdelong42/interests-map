@@ -40,9 +40,10 @@ order):
 
    In light of the previous item, you can imagine how excited I got when that
    hardware started to find applications outside of computer graphics.  Most of
-   the ideas behind that technology got its start in the niche HPC mainfraime
-   market (e.g., Cray, Conneciton Machines, etc.).  So modern 3D graphics cards
-   were just an outgrowth and a trickle-down of that tech into the mainstream.
+   the ideas behind that technology got their start in the niche HPC mainframe
+   market (e.g., Cray, Connection Machines, etc.).  So modern 3D graphics tech is
+   just an outgrowth and a trickle-down of that tech into the mainstream (with
+   a healthy dose of Moore's law heaped on).
 
    The emergence of using that hardware for computations outside of computer
    graphics brought that theme full-circle (what's old is new again).
