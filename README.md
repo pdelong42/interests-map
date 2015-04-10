@@ -69,11 +69,23 @@ order):
    I also love the opportunity to play with dedicated hardware in this space
    (i.e., "packet-capture appliances").
 
+ - Lisp, Scheme, and their various descendants
+
+   Ever since my first exposure to Lisp (Emacs Lisp), I've caught the bug and
+   haven't been able to shake it.  It just makes sense to me, I can't explain
+   why.  My latest foray into this world has been learning and using Clojure.
+
  - virtualization
+
+   (write me)
+
+ - electronics (a.k.a., actually utilizing my EE degree)
+
+   (write me)
 
  - more to come...
 
-As you can see, it's mostly on the technical side, but isn't limited to
+As you can see, this list is mostly on the technical side, but isn't limited to
 computery things.  I'm debating whether to be daring and step outside that box,
 by including things like ballroom dancing (which I haven't had time to put any
 energy into in a number of years) and the types of art and music I find
