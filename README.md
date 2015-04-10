@@ -14,6 +14,22 @@ order):
 
    (write me)
 
+ - physics (outline below, write more later):
+
+   - relativity: SR, GR, etc.
+   - quantum mechanics: QFT, QED, QCD, entanglement, wave function collapse
+   - quantum computing
+   - lagrangian and hamiltonian mechanics
+   - symmetry breaking
+
+ - mathematics (outline below, write more later):
+
+   - group theory
+   - topology
+   - calculus of variatons
+   - graph theory
+   - complexity theory (this is more CS, but it's still math, IMHO)
+
  - raytracing, and computer graphics in-general
 
    Not only have I found computer graphics interesting for about as long as I
