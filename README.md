@@ -53,6 +53,14 @@ order):
 
  - GNU Radio and other SDR (software-defined radio)
 
+   Another one of those intersections of "math" and "hardware".  And yes, while
+   it's *software*-defined radio, it still has a large hardware component doing
+   the heavy-lifting (usually in the form of DSP daughter-boards).
+
+   ToDo: I should flesh-out this description and actually say something about,
+   y'know, radio.  But I was inspired to write something, so I wrote, before I
+   forgot.
+
  - holography, and optics in-general
 
  - virtualization
