@@ -51,6 +51,10 @@ order):
    y'know, radio.  But I was inspired to write something, so I wrote, before I
    forgot.
 
+ - parallel and concurrent computation (mostly pertaining to number-crunching)
+
+   (write me)
+
  - anything to do with packet capture
 
    One specific project I had in mind is something that puts a NIC in
