@@ -10,19 +10,9 @@ years ago.  I should find that and import it into this repo.
 Here's a rough first-stab at drafting an interests list (in no particular
 order):
 
- - anything to do with packet capture
+ - holography, and optics in-general
 
-   One specific project I had in mind is something that puts a NIC in
-   promiscuous mode, listens for file requests over HTTP, and dumps the complete
-   files to disk.  It's quite possible there's a fully-formed project on github
-   that already does this, and I just have to find it.
-
-   However, even if there are projects out there which do things that I already
-   want, I still want to write code for these kinds of applications (or modify
-   existing code), as a learning exercise.
-
-   I also love the opportunity to play with dedicated hardware in this space
-   (i.e., "packet-capture appliances").
+   (write me)
 
  - raytracing, and computer graphics in-general
 
@@ -61,7 +51,19 @@ order):
    y'know, radio.  But I was inspired to write something, so I wrote, before I
    forgot.
 
- - holography, and optics in-general
+ - anything to do with packet capture
+
+   One specific project I had in mind is something that puts a NIC in
+   promiscuous mode, listens for file requests over HTTP, and dumps the complete
+   files to disk.  It's quite possible there's a fully-formed project on github
+   that already does this, and I just have to find it.
+
+   However, even if there are projects out there which do things that I already
+   want, I still want to write code for these kinds of applications (or modify
+   existing code), as a learning exercise.
+
+   I also love the opportunity to play with dedicated hardware in this space
+   (i.e., "packet-capture appliances").
 
  - virtualization
 
