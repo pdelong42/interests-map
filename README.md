@@ -61,5 +61,9 @@ order):
 As you can see, it's mostly on the technical side, but isn't limited to
 computery things.  I'm debating whether to be daring and step outside that box,
 by including things like ballroom dancing (which I haven't had time to put any
-energy into in a number of years) and the types of art I find interesting
-(which I really haven't even fully articulated yet, even to myself).
+energy into in a number of years) and the types of art and music I find
+interesting (which I really haven't even fully articulated yet, even to
+myself).  Music is especially hard to pin-down: I used to be into genres, like
+prog-rock and ambient, but I get bored easily and I can't find any set of
+categories that helps describe my tastes (I generally go with "what sounds
+good", which isn't helpful).
