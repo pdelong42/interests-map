@@ -75,6 +75,10 @@ order):
    haven't been able to shake it.  It just makes sense to me, I can't explain
    why.  My latest foray into this world has been learning and using Clojure.
 
+   One side-effect of this is that it's made me want to learn more about
+   compiler design, and about code translation in-general.  So yeah, I really
+   should pick-up that dragon book sometime.
+
  - virtualization
 
    (write me)
