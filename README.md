@@ -26,7 +26,7 @@ order):
 
    - group theory
    - topology
-   - calculus of variatons
+   - calculus of variations
    - graph theory
    - complexity theory (this is more CS, but it's still math, IMHO)
 
