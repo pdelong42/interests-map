@@ -95,6 +95,21 @@ order):
    compiler design, and about code translation in-general.  So yeah, I really
    should pick-up that dragon book sometime.
 
+ - queueing theory
+
+   I first became interested in queueing theory when the Linux O(1) scheduler
+   was shiny and new.  Around that time, message queueing middleweare also
+   started gaining traction, which also fueled my interest.  In the end, I
+   didn't do too much with either of these applications, but I'm still
+   interested in queueing theory as it applies to things like network traffic,
+   actual traffic, and resource utilization as a whole.
+
+   I've picked-up Leonard Kleinrock's book, only to put it down again because
+   it required more probability background than I had.  I don't seem to have
+   learned probability properly the first time around, so I'm relearning it
+   now.  (Fourier Analysis is also required, but I'm pretty well-versed in that
+   already.)
+
  - virtualization
 
    (write me)
