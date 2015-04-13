@@ -110,6 +110,10 @@ order):
    now.  (Fourier Analysis is also required, but I'm pretty well-versed in that
    already.)
 
+ - OpenGL / WebGL / WebCL
+
+   (write me)
+
  - virtualization
 
    (write me)
