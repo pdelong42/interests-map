@@ -42,6 +42,14 @@ order):
    I was right there when the first 3D accelerated graphics cards started to
    become available for the mainstream PC market.
 
+ - cryptography
+
+   (write me)
+
+ - audio and video codecs
+
+   (write me)
+
  - GPGPU - general-purpose graphics processing units
 
    In light of the previous item, you can imagine how excited I got when that
@@ -109,10 +117,6 @@ order):
    learned probability properly the first time around, so I'm relearning it
    now.  (Fourier Analysis is also required, but I'm pretty well-versed in that
    already.)
-
- - cryptography
-
-   (write me)
 
  - OpenGL / WebGL / WebCL
 
