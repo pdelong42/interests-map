@@ -133,11 +133,37 @@ order):
  - more to come...
 
 As you can see, this list is mostly on the technical side, but isn't limited to
-computery things.  I'm debating whether to be daring and step outside that box,
-by including things like ballroom dancing (which I haven't had time to put any
-energy into in a number of years) and the types of art and music I find
-interesting (which I really haven't even fully articulated yet, even to
-myself).  Music is especially hard to pin-down: I used to be into genres, like
-prog-rock and ambient, but I get bored easily and I can't find any set of
-categories that helps describe my tastes (I generally go with "what sounds
-good", which isn't helpful).
+computery things.  Here are some things that don't really fit into the general
+theme, but which I still consider interests:
+
+ - ballroom dancing
+
+   I haven't had time to put any energy into this hobby in quite a number of
+   years (not since I worked at Rutgers)
+
+ - music
+
+   Yes, this is horribly non-specific.  However, my taste in music is also
+   maddeningly non-specific.
+
+   I used to be into genres, like prog-rock and ambient, but I get bored easily
+   and I can't find any set of categories that helps describe my tastes (I
+   generally go with "what sounds good", which isn't helpful).
+
+ - art
+
+   Again, not terribly descriptive.  Maybe I'll list sub-generes here as I
+   think of them.
+
+ - languages (the spoken/written kind)
+
+   I've studied Japanese in my spare time "for fun", and I'm probably as
+   skilled in it as your average first-grader in Japan (that's probably being a
+   tad generous).
+
+   I also took five years of Spanish (one year in junior high, and all four
+   years of high-school).  I can't speak it fluently, and I can only understand
+   every tenth word I hear conversationally.
+
+   On the whole, I'd say I'm equally good at both languages (for better or for
+   worse).
