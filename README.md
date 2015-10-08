@@ -21,6 +21,7 @@ order):
    - quantum computing
    - lagrangian and hamiltonian mechanics
    - symmetry breaking
+   - superfluids and Bose-Einstein condensates
 
  - mathematics (outline below, write more later):
 
